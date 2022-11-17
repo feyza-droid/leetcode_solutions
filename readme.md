@@ -1,5 +1,10 @@
-Python solutions to LeetCode problems.
+# Python solutions to LeetCode problems.
 
+## Milestones
+- [x] 30/30
+- [ ] 30/50
+
+## LeetCode, Cracking the Coding Interview Questions
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
 
 - [x] 1.1 Is Unique -> 217. Contains Duplicate (similar)
