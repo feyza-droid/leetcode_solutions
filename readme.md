@@ -14,5 +14,5 @@ https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-inte
 - [ ] 1.5 One Away -> 161. One Edit Distance (same) (premium)
 - [x] 1.6 String Compression -> 443. String Compression (same)
 - [ ] 1.7 Rotate Matrix -> 48. Rotate Image (same)
-- [ ] 1.8 Zero Matrix -> 73. Set Matrix Zeroes (same)
+- [x] 1.8 Zero Matrix -> 73. Set Matrix Zeroes (same)
 - [ ] 1.9 String Rotation -> 796. Rotate String (same)
