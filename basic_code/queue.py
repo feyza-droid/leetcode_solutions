@@ -14,6 +14,7 @@ class Queue:
         self.front = None
         self.rear = None
     
+    # O(1)
     def enqueue(self, data):
         node = Node(data)
         if self.rear == None: # first time adding a node
@@ -22,6 +23,7 @@ class Queue:
             self.rear.next = node
         self.rear = node
 
+    # O(1)
     def deque(self):
         if self.front == None:
             return None
@@ -36,15 +38,18 @@ class Queue:
         del temp
         return data
 
+    # O(1)
     def peek(self):
         if self.front == None:
             return None
         else:
             return self.front.data
 
+    # O(1)
     def isEmpty(self):
         return self.front == None
 
+    # O(n)
     def print(self):
         if self.isEmpty():
             print("Queue is empty\n")
