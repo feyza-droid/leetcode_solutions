@@ -2,7 +2,12 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
+"""
+push(data): add node to the top
+pop(): remove node from the top
 
+top-> node -> node > node -> ... -> node
+"""
 class Stack:
     def __init__(self):
         self.top = None
