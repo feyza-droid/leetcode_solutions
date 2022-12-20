@@ -2,7 +2,7 @@
 
 ## Milestones
 - [x] 30/30
-- [ ] 37/50
+- [ ] 38/50
 
 ## LeetCode, Cracking the Coding Interview Questions
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
@@ -37,7 +37,7 @@ https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-inte
 
 ### Trees and Graphs
 
-- [ ] 4.1 Route Between Nodes -> 1971. Find if Path Exists in Graph
+- [x] 4.1 Route Between Nodes -> 1971. Find if Path Exists in Graph (similar)
 - [ ] 4.2 Minimal Tree -> 108. Convert Sorted Array to Binary Search Tree
 - [ ] 4.3 List of Depths -> 102. Binary Tree Level Order Traversal
 - [ ] 4.4 Check Balanced -> 110. Balanced Binary Tree
