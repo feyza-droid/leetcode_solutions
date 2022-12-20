@@ -16,7 +16,7 @@ https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-inte
 - [x] 1.6 String Compression -> 443. String Compression (same)
 - [x] 1.7 Rotate Matrix -> 48. Rotate Image (same)
 - [x] 1.8 Zero Matrix -> 73. Set Matrix Zeroes (same)
-- [ ] 1.9 String Rotation -> 796. Rotate String (same)
+- [x] 1.9 String Rotation -> 796. Rotate String (same)
 
 ### Linked Lists
 
