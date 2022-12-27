@@ -2,7 +2,7 @@
 
 ## Milestones
 - [x] 30/30
-- [ ] 39/50
+- [ ] 41/50
 
 ## LeetCode, Cracking the Coding Interview Questions
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
@@ -24,9 +24,9 @@ https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-inte
 - [x] 2.2 Return Kth to Last -> 19. Remove Nth Node From End of List (similar)
 - [x] 2.3 Delete Middle Node -> 237. Delete Node in a Linked List (same)
 - [ ] 2.4 Partition -> 86. Partition List (same)
-- [ ] 2.5 Sum Lists -> 2. Add Two Numbers (same)
+- [x] 2.5 Sum Lists -> 2. Add Two Numbers (same)
 - [x] 2.6 Palindrome -> 234. Palindrome Linked List (same)
-- [ ] 2,7 Intersection -> 160. Intersection of Two Linked Lists (same)
+- [ ] 2.7 Intersection -> 160. Intersection of Two Linked Lists (same)
 - [ ] 2.8 Loop Detection -> 142. Linked List Cycle II (same)
 
 ### Stacks and Queues
