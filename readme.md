@@ -2,7 +2,7 @@
 
 ## Milestones
 - [x] 30/30
-- [ ] 38/50
+- [ ] 39/50
 
 ## LeetCode, Cracking the Coding Interview Questions
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
