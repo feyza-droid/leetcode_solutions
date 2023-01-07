@@ -2,7 +2,7 @@
 
 ## Milestones
 - [x] 30/30
-- [ ] 41/50
+- [ ] 42/50
 
 ## LeetCode, Cracking the Coding Interview Questions
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
@@ -65,7 +65,7 @@ https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-inte
 
 ### Sorting and Searching
 
-- [ ] 10.1 Sorted Merge -> 88. Merge Sorted Array (same)
+- [x] 10.1 Sorted Merge -> 88. Merge Sorted Array (same)
 - [ ] 10.2 Group Anagrams -> 49. Group Anagrams (same)
 - [ ] 10.3 Search in Rotated Array -> 81. Search in Rotated Sorted Array II (same)
 - [ ] 10.4 Sorted Search -> 702. Search in a Sorted Array of Unknown Size (same)
